@@ -32,6 +32,3 @@ This project is experimental and under active development. If you want to build 
 
 Contributions, suggestions, and feedback are welcome. Please open issues or pull requests for bugs, improvements, or ideas.
 
-## License
-
-TODO: Add a license (if you want to make the project open-source, consider adding an appropriate license file).
