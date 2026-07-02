@@ -25,8 +25,7 @@ Active development — currently in the early stages. The bootloader and 32-bit 
 
 This project is experimental and under active development. If you want to build or test it locally:
 1. Clone the repository.
-2. Follow the build and run instructions (TODO: add build steps and requirements here).
-3. Expect frequent changes as the bootloader and kernel evolve.
+
 
 ## Contributing
 
